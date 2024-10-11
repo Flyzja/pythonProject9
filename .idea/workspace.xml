@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02ee9b94-dbaf-4990-afd1-98de1d5d2fa6" name="Changes" comment="Генераторные сборки">
-      <change afterPath="$PROJECT_DIR$/module_9_4.py" afterDir="false" />
+    <list default="true" id="02ee9b94-dbaf-4990-afd1-98de1d5d2fa6" name="Changes" comment="Range - это просто">
+      <change afterPath="$PROJECT_DIR$/module_9_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,8 @@
     "Python.module_9_2.p.executor": "Run",
     "Python.module_9_3.executor": "Run",
     "Python.module_9_4.executor": "Run",
+    "Python.module_9_5.executor": "Run",
+    "Python.module_9_6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -118,14 +120,32 @@
       <option name="project" value="LOCAL" />
       <updated>1728329634543</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Создание функций на лету">
+      <option name="closed" value="true" />
+      <created>1728655152151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728655152151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Range - это просто">
+      <option name="closed" value="true" />
+      <created>1728662781738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728662781739</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Введение в функциональное программирование" />
     <MESSAGE value="Списковые, словарные сборки" />
     <MESSAGE value="Генераторные сборки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Генераторные сборки" />
+    <MESSAGE value="Создание функций на лету" />
+    <MESSAGE value="Range - это просто" />
+    <option name="LAST_COMMIT_MESSAGE" value="Range - это просто" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
