@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02ee9b94-dbaf-4990-afd1-98de1d5d2fa6" name="Changes" comment="Range - это просто">
-      <change afterPath="$PROJECT_DIR$/module_9_6.py" afterDir="false" />
+    <list default="true" id="02ee9b94-dbaf-4990-afd1-98de1d5d2fa6" name="Changes" comment="Генераторы">
+      <change afterPath="$PROJECT_DIR$/module_9_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,18 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.module_9_1.executor": "Run",
-    "Python.module_9_2.p.executor": "Run",
-    "Python.module_9_3.executor": "Run",
-    "Python.module_9_4.executor": "Run",
-    "Python.module_9_5.executor": "Run",
-    "Python.module_9_6.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.module_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_2.p.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject9" />
@@ -136,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728662781739</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Генераторы">
+      <option name="closed" value="true" />
+      <created>1728667806499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728667806499</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,7 +154,8 @@
     <MESSAGE value="Генераторные сборки" />
     <MESSAGE value="Создание функций на лету" />
     <MESSAGE value="Range - это просто" />
-    <option name="LAST_COMMIT_MESSAGE" value="Range - это просто" />
+    <MESSAGE value="Генераторы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Генераторы" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
